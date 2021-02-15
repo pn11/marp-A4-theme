@@ -1,0 +1,25 @@
+/* @theme A4 */
+
+@import 'default';
+
+section {
+  /* A4 document size */
+  width: 210mm;
+  height: 297mm;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+p {
+  font-size: 20px;
+}
+
+li {
+  font-size: 20px;
+}
