@@ -25,10 +25,7 @@ theme: A4
 This is slide.
 ```
 
-# Use your own theme
-
 See [marp-team/marp-vscode#use-custom-theme](https://github.com/marp-team/marp-vscode#use-custom-theme) for detail.
-
 
 ## Reference
 
