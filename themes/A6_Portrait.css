@@ -1,0 +1,26 @@
+/* @theme A6-Portrait */
+
+@import 'default';
+
+section {
+  /* A6 document size */
+
+  width: 105mm;
+  height: 148mm;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+p {
+  font-size: 20px;
+}
+
+li {
+  font-size: 20px;
+}

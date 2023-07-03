@@ -1,9 +1,10 @@
-/* @theme A4 */
+/* @theme A4-Portrait */
 
 @import 'default';
 
 section {
   /* A4 document size */
+
   width: 210mm;
   height: 297mm;
 }
